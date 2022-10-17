@@ -3,3 +3,4 @@ Ayudantía 7
 Fernanda Contreras
 Mónica Olivos
 Josefina Gutiérrez
+Tomislav Cvitanić
