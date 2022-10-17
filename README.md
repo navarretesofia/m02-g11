@@ -5,3 +5,4 @@ Mónica Olivos
 Josefina Gutiérrez
 Tomislav Cvitanić
 Antonia León
+Sofía Navarrete
