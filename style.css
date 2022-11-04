@@ -1,7 +1,54 @@
-body: {padding: 0;}
+body {padding: 0; margin: 0;}
 
-.subti {font-size: x-large;
-font-family: 'Chakra Petch', sans-serif;}
+.tit {height:768px; background-color: black; width: 50%; position: absolute; }
+.titulo {font-size: 100px; color: white; font-family: 'Chakra Petch', sans-serif; font-weight: bolder;
+	margin: 0; padding: 30px ; padding-top: 100px;}
+ 
+.index {width: 50%; font-family: 'Chakra Petch'; font-size: 35px; margin-left: 50%; padding: 30px; 
+	padding-top: 150px; padding-left: 50px; margin-bottom: 0;}
 
-.Bottom {width: 100%; height: 300px; background-color: grey ; padding: 30px;
-font-family: 'Chakra Petch', sans-serif;}
+.Paper {height: 768px; width: 100%; padding: 30px;}
+
+.subti {font-size:70px;font-family: 'Chakra Petch', sans-serif;
+width: 600px; font-weight: bolder; position: absolute;}
+
+.fotopaper {height: 300px;
+margin-left: 700px;
+margin-top: 80px;}
+
+.bio1 {width: 400px; font-family: 'Chakra Petch', sans-serif; font-size: medium; position: absolute;}
+
+.peter {width: 270px; margin-left: 500px; margin-top: 50px;}
+
+.subti2 {font-size: 60px; font-family: 'Chakra Petch', sans-serif; font-weight: bold; 
+	position: absolute; margin-top: 360px;}
+
+.res1 {width: 500px; font-family: 'Chakra Petch', sans-serif; font-size: medium; position: absolute;
+margin-left: 850px; margin-top: 130px;}
+
+.breath {height: 100px;}
+.breath2 {height: 50px;}
+
+.Proyecto {height: 768px; width: 100%; margin-left: 30px;}
+
+.fotoproyec {position: absolute;}
+
+.res2 {width: 300px;font-family: 'Chakra Petch', sans-serif; font-size: medium; margin-left: 350px; position: absolute;}
+
+.subti3 {font-size: 70px;font-family: 'Chakra Petch', sans-serif; width: 600px; font-weight: bolder; 
+margin-left: 800px; margin-bottom: 0;}
+
+.subti4 {font-size: 60px;font-family: 'Chakra Petch', sans-serif; width: 600px; font-weight: bold; 
+margin-left: 1070px; margin-top: 0; margin-bottom: 0;}
+
+.casey {width: 400px; margin-left: 1000px; margin-top: 30px;}
+
+.bio2 {width: 600px; font-family: 'Chakra Petch', sans-serif; font-size: medium; margin-left: 800px; }
+
+.Bottom {width: 100%; height: 150px; background-color: black ; padding: 10px;
+font-family: 'Chakra Petch', sans-serif; color: white;}
+
+.info {width: 50%;}
+
+.creditos {width: 50%; text-align: right;}
+
