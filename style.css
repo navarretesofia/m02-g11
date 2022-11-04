@@ -1,11 +1,12 @@
 body {padding: 0; margin: 0;}
 
-.tit {height:768px; background-color: black; width: 50%; position: absolute; }
+
+.Portada {height:768px; background-color: black;}
 .titulo {font-size: 100px; color: white; font-family: 'Chakra Petch', sans-serif; font-weight: bolder;
-	margin: 0; padding: 30px ; padding-top: 100px;}
+	margin: 0; padding: 30px ; padding-top: 100px; width: 50%; position: absolute;}
  
-.index {width: 50%; font-family: 'Chakra Petch'; font-size: 35px; margin-left: 50%; padding: 30px; 
-	padding-top: 150px; padding-left: 50px; margin-bottom: 0;}
+.index {width: 300px; font-family: 'Chakra Petch'; font-size: 25px; margin-left: 1070px; padding: 30px; 
+	padding-top: 400px; padding-left: 50px; margin-bottom: 0;color: white;}
 
 .Paper {height: 768px; width: 100%; padding: 30px;}
 
@@ -27,7 +28,7 @@ margin-top: 80px;}
 margin-left: 850px; margin-top: 130px;}
 
 .breath {height: 100px;}
-.breath2 {height: 50px;}
+.breath2 {height: 200px;}
 
 .Proyecto {height: 768px; width: 100%; margin-left: 30px;}
 
@@ -43,12 +44,18 @@ margin-left: 1070px; margin-top: 0; margin-bottom: 0;}
 
 .casey {width: 400px; margin-left: 1000px; margin-top: 30px;}
 
-.bio2 {width: 600px; font-family: 'Chakra Petch', sans-serif; font-size: medium; margin-left: 800px; }
+.bio2 {width: 600px; font-family: 'Chakra Petch', sans-serif; font-size: medium; margin-left: 800px; margin-bottom: 0;}
 
-.Bottom {width: 100%; height: 150px; background-color: black ; padding: 10px;
+.caja1 {height: 556px; padding-top: 30px; padding-left: 30px;padding-bottom: 0; }
+
+.pre {font-size: 80px; font-family: 'Chakra Petch', sans-serif; font-weight: bold; width: 700px; margin: 0;}
+
+.intro {font-family: 'Chakra Petch', sans-serif; font-size: medium; width: 400px; margin-left: 350px; padding-top: 50px;}
+
+.Bottom {width: 100%; height: 150px; background-color: black ; padding: 10px; padding-left: 30px;
 font-family: 'Chakra Petch', sans-serif; color: white;}
 
-.info {width: 50%;}
+.info {width: 50%; position: absolute;}
 
-.creditos {width: 50%; text-align: right;}
+.creditos {width: 325px; text-align: right; margin-left: 1050px;}
 
