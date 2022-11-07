@@ -82,7 +82,7 @@ margin-left: 1070px; margin-top: 0; margin-bottom: 0; position: absolute;}
 .next {font-family: 'Chakra Petch', sans-serif; font-size: small; width: 200px; margin-left: 1150px; padding-top: 50px; color: white;}
 
 
-.uno {height: 1300px; width: 100%;}
+#uno {height: 1300px; width: 100%;}
 .izq { position: absolute; padding-left: 30px; margin: 0px;}
 .a {font-family: 'Chakra Petch', sans-serif; font-size: 70px; font-weight: bold; margin-top: 0px; padding-top: 50px;}
 .b {font-family: 'Chakra Petch', sans-serif; font-size: large; width: 300px; padding-left: 100px;}
