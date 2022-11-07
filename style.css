@@ -110,14 +110,14 @@ margin-left: 1070px; margin-top: 0; margin-bottom: 0; position: absolute;}
 .ini {font-family: 'Chakra Petch', sans-serif; font-size: medium; width: 400px; padding-left: 100px; padding-top: 100px; position: absolute;}
 
 .sound {width: 650px; margin-left: 50px; margin-top: 250px; position: absolute;}
-.thing {width: 650px; margin-left: 750px; margin-top: 400px; position: absolute;}
+.thing {width: 650px; margin-left: 750px; margin-top: 400px;}
 
-.caso1 {padding-top: 750px; position: absolute;}
+.caso1 {position: absolute; margin-top: -120px;}
 .tex1 {width: 200px;font-family: 'Chakra Petch', sans-serif; font-size: medium; margin-left: 50px; position: absolute; }
 .nombre1 {font-family: 'Chakra Petch', sans-serif; font-size: 30px; padding-left: 450px; width: 300px; margin-top: 0;}
 .bla1 {width: 300px;font-family: 'Chakra Petch', sans-serif; font-size: medium; margin-left: 400px; padding-top: 20px;}
 
-.caso2 {padding-top: 900px; position: absolute; margin-left: 700px;}
+.caso2 {position: absolute; margin-left: 700px; padding-top: 20px;}
 .tex2 {width: 200px;font-family: 'Chakra Petch', sans-serif; font-size: medium; margin-left: 50px; position: absolute; }
 .nombre2 {font-family: 'Chakra Petch', sans-serif; font-size: 30px; padding-left: 450px; width: 300px; margin-top: 0;}
 .bla2 {width: 300px;font-family: 'Chakra Petch', sans-serif; font-size: medium; margin-left: 400px; padding-top: 20px;}
@@ -136,18 +136,27 @@ margin-left: 1070px; margin-top: 0; margin-bottom: 0; position: absolute;}
 .two {padding-left: 800px; padding-top: 300px;}
 
 
-.referencias {height: 250px;}
-.ein {font-family: 'Chakra Petch', sans-serif; font-size:large;font-weight: bold; padding-left: 50px;}
-.zwei {font-family: 'Chakra Petch', sans-serif; font-size:x-small; position: absolute; width: 600px; padding-left: 50px;}
-.drei {font-family: 'Chakra Petch', sans-serif; font-size:x-small; width: 600px; margin-left: 800px;}
+
+.box {height: 900px; padding-top: 30px; padding-left: 30px;padding-bottom: 0;}
+
+.erste {width: 500px; position: absolute; padding-top: 120px; padding-left: 100px;}
+.zweite {width: 500px; padding-left: 700px;}
+.dritte {width: 500px; padding-left: 700px;}
+
+.conc{font-size:80px;font-family: 'Chakra Petch', sans-serif; font-weight: bolder; padding-left: 50px; padding-top: 40px; 
+	background-color: black; color: white; height: 150px; margin-bottom: 0;}
+.pp {font-family: 'Chakra Petch', sans-serif; font-size: medium;}
+.titu {font-family: 'Chakra Petch', sans-serif; font-size: 30px;font-weight: bold;}
 
 
-
-
-.Bottom {width: 100%; height: 150px; background-color: black ; padding: 10px; padding-left: 50px;
+.Bottom {height: 400px; background-color: black ; padding: 20px; padding-left: 50px;
 font-family: 'Chakra Petch', sans-serif; color: white;}
 
-.info {width: 50%; position: absolute;}
+.info {width:300px; position: absolute; }
 
-.creditos {width: 325px; text-align: right; margin-left: 1050px;}
+.referencias {height: 280px; color: white; position: absolute; padding-left: 800px;}
+.ein {font-family: 'Chakra Petch', sans-serif; font-size:large;font-weight: bold;}
+.zwei {font-family: 'Chakra Petch', sans-serif; font-size:x-small; position: absolute; width: 600px; }
+
+
 
