@@ -8,9 +8,13 @@ body {padding: 0; margin: 0;}
 .index {width: 300px; font-family: 'Chakra Petch'; font-size: 25px; margin-left: 1000px; padding: 30px; 
 	padding-top: 280px; padding-left: 50px;color: white;}
 
+.index a {text-decoration: none; color: white;}
+
+.index a:hover {background-color: #F683CE;}
+
 	.petit {font-size: 20px;}
 
-.Paper {height: 2000px; width: 100%; padding: 30px;}
+#Paper {height: 2000px; width: 100%; padding: 30px;}
 
 .subti {font-size:70px;font-family: 'Chakra Petch', sans-serif; width: 600px; font-weight: bolder; position: absolute;}
 
@@ -50,7 +54,7 @@ margin-left: 850px; margin-top: 130px;}
 
 .breath {height: 100px;}
 
-.Proyecto {height: 1050px; width: 100%; margin-left: 30px; margin-top: 0; }
+#Proyecto {height: 1050px; width: 100%; margin-left: 30px; margin-top: 0; }
 
 .fotoproyec {position: absolute;}
 
@@ -81,7 +85,7 @@ margin-left: 1070px; margin-top: 0; margin-bottom: 0; position: absolute;}
 .uno {height: 1300px; width: 100%;}
 .izq { position: absolute; padding-left: 30px; margin: 0px;}
 .a {font-family: 'Chakra Petch', sans-serif; font-size: 70px; font-weight: bold; margin-top: 0px; padding-top: 50px;}
-.b {font-family: 'Chakra Petch', sans-serif; font-size: large; width: 300px; padding-left: 100px; p}
+.b {font-family: 'Chakra Petch', sans-serif; font-size: large; width: 300px; padding-left: 100px;}
 
 .ejemplos {margin-left: 40%; padding: 30px; padding-top: 150px;}
 .in {font-family: 'Chakra Petch', sans-serif; font-size: medium; width: 400px; padding-left: 100px; padding-top: 70px;}
@@ -102,7 +106,7 @@ margin-left: 1070px; margin-top: 0; margin-bottom: 0; position: absolute;}
 
 .descri {font-family: 'Chakra Petch', sans-serif; font-size: medium; width: 300px; padding-top: 200px; padding-left: 50px; }
 
-.dos {height: 1250px; width: 100%; }
+#dos {height: 1250px; width: 100%; }
 
 .ti {width: 400px; font-family: 'Chakra Petch', sans-serif; font-size: 67px;font-weight: bold; margin-top: 0px; padding-top: 50px; 
 	padding-left: 100px; position: absolute;}
@@ -122,7 +126,7 @@ margin-left: 1070px; margin-top: 0; margin-bottom: 0; position: absolute;}
 .nombre2 {font-family: 'Chakra Petch', sans-serif; font-size: 30px; padding-left: 450px; width: 300px; margin-top: 0;}
 .bla2 {width: 300px;font-family: 'Chakra Petch', sans-serif; font-size: medium; margin-left: 400px; padding-top: 20px;}
 
-.tres {height: 700px;}
+#tres {height: 700px;}
 
 .thething {width: 50%; padding-left: 100px; padding-top: 10px; position: absolute;}
 .exper {width: 50%; margin-left: 50%; padding-top: 10px; padding-left: 200px;}
@@ -131,7 +135,7 @@ margin-left: 1070px; margin-top: 0; margin-bottom: 0; position: absolute;}
 .ble {font-family: 'Chakra Petch', sans-serif; font-size: medium; width: 400px;}
 
 
-.cuatro {width: 400px;}
+#cuatro {width: 400px;}
 .one {padding-left: 200px; position: absolute;}
 .two {padding-left: 800px; padding-top: 300px;}
 
